@@ -1,6 +1,6 @@
 # <img src="/images/piwigo_logo.png" width="80px" alt="logo de Piwigo"> Piwigo
 
-[![Installer Piwigo avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=piwigo) [![Niveau d'intégration](https://dash.yunohost.org/integration/piwigo.svg)](https://dash.yunohost.org/appci/app/piwigo)
+[![Installer Piwigo avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=piwigo) [![Niveau d'intégration](https://dash.yunohost.org/integration/piwigo.svg)](https://dash.yunohost.org/appci/app/piwigo)
 
 ### Index
 

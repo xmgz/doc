@@ -1,6 +1,6 @@
 # <img src="/images/pihole_logo.png" alt="logo de Pi-hole"> Pi-hole
 
-[![Installer Pi-hole avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=pihole)[![Niveau d'intégration](https://dash.yunohost.org/integration/pihole.svg)](https://dash.yunohost.org/appci/app/pihole)
+[![Installer Pi-hole avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=pihole)[![Niveau d'intégration](https://dash.yunohost.org/integration/pihole.svg)](https://dash.yunohost.org/appci/app/pihole)
 
 - [Utiliser Pi-Hole comme serveur DHCP](#utiliser-pi-hole-comme-serveur-dhcp)
   - [Configurer Pi-Hole](#configurer-pi-hole)

@@ -1,6 +1,6 @@
 # <img src="/images/lufi_logo.svg" width="80px" alt="logo de Lufi"> Lufi
 
-[![Installer Lufi avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=lufi) [![Integration level](https://dash.yunohost.org/integration/lufi.svg)](https://dash.yunohost.org/appci/app/lufi)
+[![Installer Lufi avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=lufi) [![Integration level](https://dash.yunohost.org/integration/lufi.svg)](https://dash.yunohost.org/appci/app/lufi)
 
 ### Index
 

@@ -1,6 +1,6 @@
 # <img src="/images/mantis_logo.png" height="80px" alt="logo de Mantis"> Mantis
 
-[![Installer Mantis avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=mantis) [![Integration level](https://dash.yunohost.org/integration/mantis.svg)](https://dash.yunohost.org/appci/app/mantis)
+[![Installer Mantis avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=mantis) [![Integration level](https://dash.yunohost.org/integration/mantis.svg)](https://dash.yunohost.org/appci/app/mantis)
 
 ### Index
 

@@ -1,6 +1,6 @@
 # <img src="/images/yunohost_package.png" height="80px" alt="Package"> Shellinabox
 
-[![Install Shellinabox with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=shellinabox) [![Integration level](https://dash.yunohost.org/integration/shellinabox.svg)](https://dash.yunohost.org/appci/app/shellinabox)
+[![Install Shellinabox with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=shellinabox) [![Integration level](https://dash.yunohost.org/integration/shellinabox.svg)](https://dash.yunohost.org/appci/app/shellinabox)
 
 ### Index
 

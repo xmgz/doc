@@ -1,6 +1,6 @@
 # <img src="/images/minetest_logo.svg" height="80px" alt="minetest's logo"> Minetest
 
-[![Install minetest with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=minetest) [![Integration level](https://dash.yunohost.org/integration/minetest.svg)](https://dash.yunohost.org/appci/app/minetest)
+[![Install minetest with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=minetest) [![Integration level](https://dash.yunohost.org/integration/minetest.svg)](https://dash.yunohost.org/appci/app/minetest)
 
 ### Index
 

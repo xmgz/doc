@@ -1,6 +1,6 @@
 # <img src="/images/glowing_bear_logo.svg" height="80px" alt="Glowing Bear's logo"> Glowing Bear
 
-[![Install Glowing Bear with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=glowingbear) [![Integration level](https://dash.yunohost.org/integration/glowingbear.svg)](https://dash.yunohost.org/appci/app/glowingbear)
+[![Install Glowing Bear with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=glowingbear) [![Integration level](https://dash.yunohost.org/integration/glowingbear.svg)](https://dash.yunohost.org/appci/app/glowingbear)
 
 ### Index
 

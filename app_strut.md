@@ -1,6 +1,6 @@
 # <img src="/images/strut_logo.png" height="80px" alt="strut's logo"> Strut
 
-[![Install Strut with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=strut) [![Integration level](https://dash.yunohost.org/integration/strut.svg)](https://dash.yunohost.org/appci/app/strut)
+[![Install Strut with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=strut) [![Integration level](https://dash.yunohost.org/integration/strut.svg)](https://dash.yunohost.org/appci/app/strut)
 
 ### Index
 

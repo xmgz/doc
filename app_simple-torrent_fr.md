@@ -1,6 +1,6 @@
 # <img src="/images/simple-torrent_logo.png" width="80px" alt="logo de Simple Torrent"> Simple Torrent
 
-[![Install Simple Torrent with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=simple-torrent) [![Integration level](https://dash.yunohost.org/integration/simple-torrent.svg)](https://dash.yunohost.org/appci/app/simple-torrent)
+[![Install Simple Torrent with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=simple-torrent) [![Integration level](https://dash.yunohost.org/integration/simple-torrent.svg)](https://dash.yunohost.org/appci/app/simple-torrent)
 
 ### Index
 

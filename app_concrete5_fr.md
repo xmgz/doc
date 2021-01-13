@@ -1,6 +1,6 @@
 # <img src="/images/concrete5_logo.png" height="80px" alt="Logo de Concrete5"> Concret5
 
-[![Install concrete5 with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=concrete5) [![Integration level](https://dash.yunohost.org/integration/concrete5.svg)](https://dash.yunohost.org/appci/app/concrete5)
+[![Install concrete5 with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=concrete5) [![Integration level](https://dash.yunohost.org/integration/concrete5.svg)](https://dash.yunohost.org/appci/app/concrete5)
 
 ### Index
 

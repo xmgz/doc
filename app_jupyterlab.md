@@ -1,6 +1,6 @@
 # <img src="/images/logo-jupyterhub.png" height="80px" alt="JupyterLab Logo"> JupyterLab
 
-[![Install JupyterLab with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=jupyterlab) [![Integration level](https://dash.yunohost.org/integration/jupyterlab.svg)](https://dash.yunohost.org/appci/app/jupyterlab)
+[![Install JupyterLab with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=jupyterlab) [![Integration level](https://dash.yunohost.org/integration/jupyterlab.svg)](https://dash.yunohost.org/appci/app/jupyterlab)
 
 ### Index
 

@@ -1,6 +1,6 @@
 # <img src="images/mediawiki_logo.svg" height="80px" alt="logo de MediaWiki"> MediaWiki
 
-[![Install MediaWiki with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=mediawiki) [![Integration level](https://dash.yunohost.org/integration/mediawiki.svg)](https://dash.yunohost.org/appci/app/mediawiki)
+[![Install MediaWiki with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=mediawiki) [![Integration level](https://dash.yunohost.org/integration/mediawiki.svg)](https://dash.yunohost.org/appci/app/mediawiki)
 
 ### Index
 

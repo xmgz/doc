@@ -1,6 +1,6 @@
 # <img src="/images/ffsync_logo.png" width="80px" alt="logo de Firefox Sync"> Firefox Sync
 
-[![Install Firefox Sync with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=ffsync) [![Integration level](https://dash.yunohost.org/integration/ffsync.svg)](https://dash.yunohost.org/appci/app/ffsync)
+[![Install Firefox Sync with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=ffsync) [![Integration level](https://dash.yunohost.org/integration/ffsync.svg)](https://dash.yunohost.org/appci/app/ffsync)
 
 ### Index
 

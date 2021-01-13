@@ -1,6 +1,6 @@
 # <img src="/images/codimd_logo.png" height="80px" alt="logo de CodiMD"> CodiMD
 
-[![Installer CodiMD avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=codimd) [![Integration level](https://dash.yunohost.org/integration/codimd.svg)](https://dash.yunohost.org/appci/app/codimd)
+[![Installer CodiMD avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=codimd) [![Integration level](https://dash.yunohost.org/integration/codimd.svg)](https://dash.yunohost.org/appci/app/codimd)
 
 ### Index
 

@@ -1,6 +1,6 @@
 # <img src="/images/baikal_logo.png" height="80px" alt="Baïkal's logo"> Baïkal
 
-[![Install Baïkal with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=baikal) [![Integration level](https://dash.yunohost.org/integration/baikal.svg)](https://dash.yunohost.org/appci/app/baikal)
+[![Install Baïkal with YunoHost](https://install-app.yunohost.org/instasvg)](https://install-app.yunohost.org/?app=baikal) [![Integration level](https://dash.yunohost.org/integration/baikal.svg)](https://dash.yunohost.org/appci/app/baikal)
 
 ### Index
 

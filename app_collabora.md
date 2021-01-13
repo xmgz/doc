@@ -1,6 +1,6 @@
 # <img src="/images/collabora_logo.png" height="80px" alt="collabora's logo"> Collabora
 
-[![Install collabora with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=collabora) [![Integration level](https://dash.yunohost.org/integration/collabora.svg)](https://dash.yunohost.org/appci/app/collabora)
+[![Install collabora with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=collabora) [![Integration level](https://dash.yunohost.org/integration/collabora.svg)](https://dash.yunohost.org/appci/app/collabora)
 
 ### Index
 

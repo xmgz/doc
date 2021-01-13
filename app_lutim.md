@@ -1,6 +1,6 @@
 # <img src="/images/lutim_logo.png" height="80px" alt="Lutim's logo"> Lutim
 
-[![Install Lutim with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=lutim) [![Integration level](https://dash.yunohost.org/integration/lutim.svg)](https://dash.yunohost.org/appci/app/lutim)
+[![Install Lutim with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=lutim) [![Integration level](https://dash.yunohost.org/integration/lutim.svg)](https://dash.yunohost.org/appci/app/lutim)
 
 ### Index
 

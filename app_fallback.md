@@ -1,6 +1,6 @@
 # <img src="/images/yunohost_package.png" height="80px" alt="Package"> Fallback
 
-[![Install Fallback with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=fallback) [![Integration level](https://dash.yunohost.org/integration/fallback.svg)](https://dash.yunohost.org/appci/app/fallback)
+[![Install Fallback with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=fallback) [![Integration level](https://dash.yunohost.org/integration/fallback.svg)](https://dash.yunohost.org/appci/app/fallback)
 
 ### Index
 

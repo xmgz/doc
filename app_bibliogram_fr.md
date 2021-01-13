@@ -1,6 +1,6 @@
 # <img src="/images/logo-bibliogram.png" height="80px" alt="Logo Bibliogram"> Bibliogram
 
-[![Installer Bibliogram avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=bibliogram) [![Integration level](https://dash.yunohost.org/integration/bibliogram.svg)](https://dash.yunohost.org/appci/app/bibliogram)
+[![Installer Bibliogram avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=bibliogram) [![Integration level](https://dash.yunohost.org/integration/bibliogram.svg)](https://dash.yunohost.org/appci/app/bibliogram)
 
 ### Index
 
