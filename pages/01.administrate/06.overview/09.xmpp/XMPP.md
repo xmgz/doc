@@ -69,3 +69,7 @@ For this to work you need to [add the corresponding `muc.` DNS record](/dns_conf
 ## VoIP and videoconferences
 
 A practical tool to call an XMPP client, either with voice or voice+video, is to use the [Jitsi](https://jitsi.org/) client.
+
+## Troubleshooting
+
+- **xmpp-upload** subdomain is used for images/file sending. If you had NOT set its DNS details on your domain BEFORE LetsEncrypt's certificate you may have to force a certificate renewal to make it work. [Source](https://forum.yunohost.org/t/ssl-certificate-for-xmpp-upload/11218/4)
